@@ -6,4 +6,5 @@
 - 💬 Ask me about life, work and [electrican stuff](https://giphy.com/gifs/WBPictures-sx6Tlo7xrzF2m24mNs)
 - 📫 How to reach me: insta: kilian_21
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Work smart not hard
+- Work smart not hard
+
