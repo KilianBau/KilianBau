@@ -1,7 +1,6 @@
 # Hi there 👋
 
 
-<img width="742" alt="Screenshot 2023-06-19 at 16 30 15" src="https://github.com/KilianBau/KilianBau/assets/137038489/f5e789ce-b1b1-460c-9257-56b8a5ebca49"> 
 
 
 - 🔭 I’m currently working on my developer skills
