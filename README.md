@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my developer skills
 - 🌱 I’m currently learning coding with [neuefische](https://github.com/neuefische)
-- 💬 Ask me about life, work and [electrican stuff](https://giphy.com/gifs/WBPictures-sx6Tlo7xrzF2m24mNs/fullscreen)
+- 💬 Ask me about life, work and [electrician stuff](https://giphy.com/gifs/WBPictures-sx6Tlo7xrzF2m24mNs/fullscreen)
 - 📫 How to reach me: insta: kilian_21
 - 😄 Pronouns: he/him
 - Work smart not hard
